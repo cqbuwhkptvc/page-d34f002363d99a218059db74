@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "5becd0f0e36ce3b1abfed5ea",
+  "owner": "cqbuwhkptvc",
+  "repo": "page-d34f002363d99a218059db74",
+  "title": "44F网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d34f002363d99a218059db74",
+      "a": "44F网络",
+      "b": "",
+      "entity": "44F网络",
+      "brand": "44F网络",
+      "separator": "",
+      "path": "index.html",
+      "hash": "fa7f6e241e5f24b71c040eae5a71e65f20df9c8fd04e5454256ec5c7ee5ce15c",
+      "content": {
+        "keyword1": "44F网络",
+        "keyword2": "",
+        "primary_entity": "44F网络",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "44F网络为您提供专业的机场订阅服务和客户端下载，帮助您实现高效稳定的网络加速体验。",
+          "AI_DESCRIPTION": "44F网络为您提供专业的机场订阅服务和客户端下载，帮助您实现高效稳定的网络加速体验。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n<style>\n* { box-sizing: border-box; }\nbody {\n  font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif;\n  background-color: #f8f9fa;\n  color: #333333;\n  line-height: 1.7;\n  margin: 0;\n  padding: 0;\n}\nheader {\n  background-color: #ffffff;\n  box-shadow: 0 2px 4px rgba(0,0,0,0.1);\n  position: sticky;\n  top: 0;\n  z-index: 100;\n}\nheader div {\n  max-width: 800px;\n  margin: 0 auto;\n  padding: 15px 0;\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n}\nh1 {\n  color: #7c3aed;\n  font-size: 2.2rem;\n  margin: 0;\n}\nnav a {\n  color: #7c3aed;\n  text-decoration: none;\n  font-weight: 500;\n  margin-left: 25px;\n  font-size: 1rem;\n}\nmain {\n  max-width: 800px;\n  margin: 0 auto;\n  padding: 30px 20px;\n}\nsection {\n  margin-bottom: 50px;\n}\n.step-container {\n  display: flex;\n  flex-direction: column;\n  gap: 25px;\n}\n.step {\n  background: #ffffff;\n  border-radius: 12px;\n  padding: 25px;\n  box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);\n}\n.step h3 {\n  color: #6b7280;\n  font-size: 1.35rem;\n  margin: 0 0 15px 0;\n  display: flex;\n  align-items: center;\n}\n.step h3::before {\n  content: \"\";\n  flex-shrink: 0;\n  width: 32px;\n  height: 32px;\n  background-color: #7c3aed;\n  color: #fff;\n  border-radius: 50%;\n  margin-right: 15px;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  font-size: 1rem;\n  font-weight: bold;\n}\ndetails {\n  background-color: #ffffff;\n  border: 1px solid #e5e7eb;\n  border-radius: 8px;\n  margin-bottom: 15px;\n}\nsummary {\n  padding: 18px 20px;\n  font-size: 1.15rem;\n  font-weight: 600;\n  cursor: pointer;\n  list-style: none;\n  position: relative;\n}\nsummary::marker {\n  display: none;\n}\nsummary::before {\n  content: \"Q\";\n  color: #7c3aed;\n  font-weight: bold;\n  margin-right: 10px;\n}\np {\n  margin: 0 0 12px 0;\n  padding: 0;\n}\n@media (max-width: 640px) {\n  h1 {\n    font-size: 1.9rem;\n  }\n  main {\n    padding: 20px 15px;\n  }\n  .step h3 {\n    font-size: 1.2rem;\n  }\n}\n</style>\n\n\n<header>\n<div>\n<h1>44F网络</h1>\n<nav>\n<a href=\"#steps\">使用指南</a>\n<a href=\"#faq\">常见问题</a>\n</nav>\n</div>\n</header>\n<main>\n<section>\n<h2>品牌简介</h2>\n<p>44F网络专注于提供高效的机场订阅与客户端下载服务，让您的连接更稳定更快。</p>\n</section>\n<section>\n<h2>使用场景</h2>\n<p>适用于个人娱乐、团队协作及企业办公场景。</p>\n</section>\n<section id=\"steps\">\n<h2>使用步骤</h2>\n<div class=\"step-container\">\n<div class=\"step\">\n<h3>1. 选择套餐</h3>\n<p>根据您的需求浏览适合的套餐计划。</p>\n{{PLANS_HTML}}</div>\n<div class=\"step\">\n<h3>2. 选择客户端</h3>\n<p>根据设备类型选择最合适的客户端进行下载。</p>\n{{CLIENTS_HTML}}</div>\n<div class=\"step\">\n<h3>3. 安装与配置</h3>\n<p>按照客户端的安装指南完成操作。</p>\n</div>\n<div class=\"step\">\n<h3>4. 连接加速</h3>\n<p>选择节点进行网络加速。</p>\n</div>\n</div>\n</section>\n<section id=\"faq\">\n<h2>常见问题</h2>\n<details>\n<summary>如何选择合适的客户端？</summary>\n<p>根据您的设备和需求选择对应版本的客户端进行下载。</p>\n</details>\n<details>\n<summary>什么是VIP专属高带宽节点？</summary>\n<p>VIP专属高带宽节点提供优先的加速服务。</p>\n</details>\n<details>\n<summary>如何获得优先工单支持？</summary>\n<p>旗舰版和团队版套餐提供7x24优先工单支持。</p>\n</details>\n<details>\n<summary>支持哪些流媒体解锁？</summary>\n<p>旗舰版支持全节点原生流媒体解锁。</p>\n</details>\n<details>\n<summary>如何配置企业定制路由？</summary>\n<p>团队版支持企业定制路由。</p>\n</details>\n</section>\n</main>\n\n",
+          "hash": "e24a97e149a7adb06374aa9ee5c881180945f7f16013c7a8f50916a308b277d0",
+          "seo": {
+            "title": "44F网络 - 机场订阅与客户端下载",
+            "keywords": "44F网络, 机场订阅, 客户端下载, VPN加速器, 网络加速",
+            "description": "44F网络为您提供专业的机场订阅服务和客户端下载，帮助您实现高效稳定的网络加速体验。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lingchuanrc.cn",
+    "host": "b.lingchuanrc.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "lingchuanrc.cn",
+      "url": "https://lingchuanrc.cn/",
+      "label": "飞数(Flyint)",
+      "apex": "lingchuanrc.cn",
+      "kind": null,
+      "identity": "mkf8vh8/page-0d539cb4778860751bf5443e"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "e73b2b5e9e6b761ea417763d4236893e89408b5cd43dd5d56954b2a40f24f024",
+    "sitemap.xml": "c52d15f369c7558a76fe8a4809018468b7e8fb6fa4c4d8a8794914252f976c87",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6b27f69e98f965ae35409e02b54e7d64560da37aa26c60644b23326aa33e730c",
+    "robots.txt": "9d8c598165a2b7cf6b19d91ca2ddd3905b76e0e97828ec29069f1240b433bae9",
+    "a5fd0525ebfbf34b60bb8d94214bb959.txt": "51d365cb3996e91f9dee5ea55073c9e022eb065a9232616a4d80291e6727746a"
+  },
+  "revision": "cfd8b43c32c867076a16a0a8b079b0c157fc8ee56148db5614ca0041ce4940c8"
+}
